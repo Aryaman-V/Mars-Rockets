@@ -1,0 +1,18 @@
+.button-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  justify-content: space-between;
+}
+
+.text-input {
+  width: 50%;
+  font-size: 20px;
+  outline: none;
+  text-align: center;
+  font-family: "Raleway";
+  padding: 10px;
+  border: none;
+  border-radius: 40px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to right, #d1913c, #ffd194);
+}
+.header {
+  text-align: center;
+}
+.img img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
